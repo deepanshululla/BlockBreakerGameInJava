@@ -1,4 +1,4 @@
-# BlockBreakerGameInJava
+# Block Breaker Game In Java
 Block breaker game in java
 
 Created by Deepanshu lulla
